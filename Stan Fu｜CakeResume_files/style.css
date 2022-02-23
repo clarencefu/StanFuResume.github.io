@@ -1,0 +1,33 @@
+  .cr.default p,
+.cr.default li,
+.cr.default td,
+.cr.default blockquote {
+  color: #555555;
+  font-family: 'Roboto', 'Noto Sans TC', 'Noto Sans SC', 'Noto Sans HK', 'Noto Sans JP', 'Noto Sans', 'PingFang TC', 'Microsoft JhengHei', 'PMingLiU', sans-serif;
+  font-size: 16.7px;
+  line-height: 1.5;
+}
+
+.cr.default h1,
+.cr.default h2,
+.cr.default h3,
+.cr.default h4,
+.cr.default h5,
+.cr.default h6 {
+  font-family: 'Roboto', 'Noto Sans TC', 'Noto Sans SC', 'Noto Sans HK', 'Noto Sans JP', 'Noto Sans', 'PingFang TC', 'Microsoft JhengHei', 'PMingLiU', sans-serif;
+  line-height: 1.5;
+}
+
+.cr.default .row {
+  padding-top: 25.05px;
+  padding-bottom: 25.05px;
+}
+
+.cr.default .row.with-background .fr-class-skill-tag {
+  color: #555555
+}
+.cr.default .row.bottom-border::after {
+  bottom: 15.03px
+}
+
+
