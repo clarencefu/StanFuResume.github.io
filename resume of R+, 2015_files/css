@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Courgette';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=wEO_EBrAnc9BLjLQAUkFVOgJ82ZXwNqi&skey=427bdd45dca77eaa&v=v12) format('woff2');
+}
